@@ -1,16 +1,4 @@
 
----
-
-layout: default
-
-title:  "LeetCode Q1 : Two Sum"
-
-date:   2018-03-26 20:00:00
-
-categories: LeetCode
-
----
-
 ## 1. Two Sum
 **官方的链接：[1. Two Sum](https://leetcode.com/problems/two-sum/description/)**
 
