@@ -1,7 +1,6 @@
 数组是无序的，比较便捷的方法就是按照k-v(元素-下标)形式将数据元素进行判断和存储，判断差是否在k中有存储，若有，说明存在，否则把元素进行存储。因为只需要扫描一遍，时间复杂度O(n)，空间复杂度O(n)。。
 
-**[github-here](https://github.com/wpbxin/leetcode-algorithm-questions/tree/master/src/com/leetcode/questions)**
-```
+```java
 public class Q1_TwoSum {
 	public int[] twoSum(int[] nums, int target) {
 		if (null == nums || nums.length < 2)
